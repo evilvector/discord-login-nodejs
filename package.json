@@ -1,0 +1,23 @@
+{
+  "name": "login-discord",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src",
+    "dev": "nodemon src"
+  },
+  "keywords": [],
+  "author": "Yasu Yumiko",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "4.18.1",
+    "express-session": "1.17.3",
+    "morgan": "1.10.0",
+    "passport": "0.6.0",
+    "passport-discord": "0.1.4"
+  },
+  "devDependencies": {
+    "nodemon": "2.0.19"
+  }
+}
