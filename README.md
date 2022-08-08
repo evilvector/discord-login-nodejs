@@ -1,1 +1,1 @@
-# Boilerplate for Signin wirh Discord OAuth.
+# Boilerplate for Signin with Discord OAuth.
